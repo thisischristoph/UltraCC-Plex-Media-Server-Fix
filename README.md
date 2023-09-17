@@ -16,7 +16,7 @@ First SSH into your server using the command:
 
 Now, input the following commands separately
 
-`wget https://raw.githubusercontent.com/Rapiddot/tools/master/plex/reclaim.sh`
+`wget https://raw.githubusercontent.com/thisischristoph/UltraCC-Plex-Media-Server-Fix/main/reclaim.sh`
 
 Then 
 
